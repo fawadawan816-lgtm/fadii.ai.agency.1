@@ -1,0 +1,7 @@
+crewai
+langchain-groq
+crewai-tools
+python-dotenv
+fastapi
+uvicorn
+langchain_community
