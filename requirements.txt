@@ -1,5 +1,5 @@
-fastapi
-uvicorn
-groq
-crewai
-python-dotenv
+fastapi==0.109.2
+uvicorn==0.27.1
+groq==0.4.2
+crewai==0.22.4
+python-dotenv==1.0.1
