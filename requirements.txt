@@ -1,4 +1,6 @@
 fastapi
 uvicorn
 groq
+crewai
+langchain-groq
 python-dotenv
